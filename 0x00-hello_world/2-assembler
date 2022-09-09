@@ -1,1 +1,2 @@
-2. Assembler
+#!/bin/bash
+gcc -c $CFILE> main.o
