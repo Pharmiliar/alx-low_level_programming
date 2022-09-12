@@ -35,11 +35,10 @@ int main(void)
 				}
 				g++;
 			}
-			i++
+			i++;
 		}
 		e++;
 	}
 	putchar('\n');
 	return (0);
 }
-
