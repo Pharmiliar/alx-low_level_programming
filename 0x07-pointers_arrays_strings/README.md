@@ -1,1 +1,1 @@
-7. The line of life is a ragged diagonal between duty and desire
+6. Chess is mental torture
