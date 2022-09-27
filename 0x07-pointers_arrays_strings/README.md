@@ -1,1 +1,1 @@
-5-main.c
+5. strstr
