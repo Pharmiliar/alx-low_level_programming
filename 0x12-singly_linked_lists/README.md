@@ -1,1 +1,1 @@
-5. The Hare and the Tortoise
+6. Real programmers can write assembly code in any language
