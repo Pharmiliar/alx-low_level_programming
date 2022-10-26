@@ -1,1 +1,1 @@
-10. Delete at index
+11. Reverse list
