@@ -1,1 +1,1 @@
-7. Get node at index
+8. Sum list
