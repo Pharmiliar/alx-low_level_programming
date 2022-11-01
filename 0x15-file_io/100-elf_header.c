@@ -45,6 +45,7 @@ void print_addr(char *ptr)
 
 			else if (ptr[i] < 0)
 				printf("%02x", 256 + ptr[i]);
+
 		}
 	}
 	printf("\n");
@@ -97,8 +98,10 @@ void print_osabi(char *ptr)
 		printf("UNIX - Solaris\n");
 	else
 		printf("<unknown: %x>\n", osabi);
+
 	printf("  ABI Version:                       %d\n", ptr[8]);
 }
+
 
 /**
  * print_version - prints version
@@ -113,6 +116,7 @@ void print_version(char *ptr)
 
 	if (version == EV_CURRENT)
 		printf(" (current)");
+
 	printf("\n");
 }
 
